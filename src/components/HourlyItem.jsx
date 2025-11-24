@@ -1,4 +1,4 @@
-import WeatherIcon from "../WeatherIcon/WeatherIcon";
+import WeatherIcon from "./WeatherIcon";
 
 export default function HourlyItem({ data }) {
   return (
